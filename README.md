@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Further Enhancement
 
 React Test setup with Redux using Jest
+
 Debugger support on VSCode
 
 ## Available Scripts
