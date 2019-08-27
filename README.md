@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Further Enhancement
+
+React Test setup with Redux using Jest
+
 ## Available Scripts
 
 In the project directory, you can run:
