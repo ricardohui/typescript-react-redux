@@ -1,10 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Further Enhancement
+# Possible Enhancements
 
 React Test setup with Redux using Jest
 
 Debugger support on VSCode
+
+Dockerise this application
 
 ## Available Scripts
 
